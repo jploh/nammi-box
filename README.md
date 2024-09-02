@@ -1,17 +1,18 @@
 # Dongfeng Nammi Box (Nammi 01)
 
 ### Contents:
-- [Overview](#overview)
-- [Key Vehicle Specifications](#key-vehicle-specifications)
-- [Key Car Features](#key-car-features)
-- [User Manual](#user-manual)
-- [About Dongfeng](#about-dongfeng)
-- [Real World Experience](#real-world-experience)
-- [Other Comments](#other-comments)
-- [How to Contribute](#how-to-contribute)
-- [External Links](#external-links)
 
-## [Overview]
+1. [Overview](#overview)
+2. [Key Vehicle Specifications](#key-vehicle-specifications)
+3. [Key Car Features](#key-car-features)
+4. [User Manual](#user-manual)
+5. [About Dongfeng](#about-dongfeng)
+6. [Real World Experience](#real-world-experience)
+7. [Other Comments](#other-comments)
+8. [How to Contribute](#how-to-contribute)
+9. [External Links](#external-links)
+
+## Overview
 
 The Dongfeng Nammi Box, known as Nammi 01 in China, is a 5-door hatchback, single-motor, front-wheel drive EV. The vehicle is powered by a 70 kW motor. It has a 42.3 kWh LFP battery pack and WLTP range of 317 km.
 
@@ -19,7 +20,7 @@ The vehicle is built on top of the Dongfeng Mach E platform (not to be confused 
 
 The information provided on this site is for the sole variant sold in the Philippines by Dongfeng Philippines.
 
-## [Key Vehicle Specifications]
+## Key Vehicle Specifications
 
 | Description       |                              |
 |-------------------|------------------------------|
@@ -36,7 +37,8 @@ The information provided on this site is for the sole variant sold in the Philip
 | WLTP Range        | 317 km                       |
 | Peak Power        | 70 kW                        |
 
-## [Key Car Features]
+## Key Car Features
+
 | Feature                                |                                       |
 |----------------------------------------|---------------------------------------|
 | Frunk                                  | None                                  |
@@ -72,27 +74,27 @@ The information provided on this site is for the sole variant sold in the Philip
 | USB Ports                              | 1 x USB-A center console              |
 |                                        | 1 x USB-A driver's side (power only)  |
 
-## [User Manual]
+## User Manual
 
 The user manual in English can be downloaded [here](English%20User%20Manual.pdf).
 
-## [About Dongfeng]
+## About Dongfeng
 
 _Space reserved for content_
 
-## [Real World Experience]
+## Real World Experience
 
 _Space reserved for content_
 
-## [Other Comments]
+## Other Comments
 
 _Space reserved for content_
 
-## [How to Contribute]
+## How to Contribute
 
 If you have any information that you would like to add to this page, please feel free to submit a pull request. You can also reach out to me on Threads at `@jploh`.
 
-## [External Links]
+## External Links
 
 _Space reserved for content_
 
