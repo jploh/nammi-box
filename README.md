@@ -5,7 +5,7 @@
 1. [Overview](#overview)
 2. [Key Vehicle Specifications](#key-vehicle-specifications)
 3. [Key Car Features](#key-car-features)
-4. [User Manual](#user-manual)
+4. [Manufacturer Manuals and Documentation](#manufacturer-manuals-and-documentation)
 5. [About Dongfeng](#about-dongfeng)
 6. [Real World Experience](#real-world-experience)
 7. [Other Comments](#other-comments)
@@ -74,9 +74,16 @@ The information provided on this site is for the sole variant sold in the Philip
 | USB Ports                              | 1 x USB-A center console              |
 |                                        | 1 x USB-A driver's side (power only)  |
 
-## User Manual
+## Manufacturer Manuals and Documentation
 
-The user manual in English can be downloaded [here](English%20User%20Manual.pdf).
+1. [Owner's Manual](Owner%27s%20Manual.pdf)
+2. Service and Maintenance Manual
+   - [Part 1](Service%20and%20Maintenance%20Manual%20-%20Part%201.pdf)
+   - [Part 2](Service%20and%20Maintenance%20Manual%20-%20Part%202.pdf)
+3. [Emergency Manual](Emergency%20Manual.pdf)
+4. Electrical and Circuit Diagrams
+   - [Part 1](Electrical%20and%20Circuit%20Diagrams%20-%20Part%201.pdf)
+   - [Part 2](Electrical%20and%20Circuit%20Diagrams%20-%20Part%202.pdf)
 
 ## About Dongfeng
 
